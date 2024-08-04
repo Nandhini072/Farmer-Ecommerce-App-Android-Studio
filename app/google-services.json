@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843643806507",
+    "project_id": "farmerecommerce-31219",
+    "storage_bucket": "farmerecommerce-31219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843643806507:android:4aef232507ec7c62b25b6e",
+        "android_client_info": {
+          "package_name": "com.example.farmerecommercee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-4muID54OT_R84aY5FAo37UH2M8HhHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
